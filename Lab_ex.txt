@@ -1,0 +1,11 @@
+• Task 1:
+• Create a React component that fetches data from a public API (e.g., a list of
+users)and displays it in a table format.
+• Create a React app with Json-server and use Get , Post , Put , Delete & patch
+method on Json-server API.
+• Task 2:
+• Create a React app crud and Authentication with firebase API.
+• Implement google Authentication with firebase API.
+• Task 3:
+• Implement error handling and loading states for the API call. Display a
+loadingspinner while the data is being fetched.
